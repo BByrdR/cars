@@ -1,3 +1,10 @@
+## Identifying Information: 
+1. Name: Brian Byrd
+2. Student ID: 2373943
+3. Email: BByrd@chapman.edu
+4. Class: CPSC and CENG 298-02
+5. Assignment: cars 
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
